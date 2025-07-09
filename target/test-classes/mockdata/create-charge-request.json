@@ -1,0 +1,11 @@
+{
+  "walletId": "c839b41c-8728-4e44-a98e-9bb2db1ef8d3",
+  "transactionId": "c839b41c-8728-4e44-a98e-9bb2db1ef8d1",
+  "amount": 10000,
+  "months": 12,
+  "firstDueDate": "2024-08-01T00:00:00",
+  "annualRate": 0.18,
+  "amortizationType": "FRANCESA",
+  "createdAt": "2024-07-09T01:00:00",
+  "updatedAt": "2024-07-09T01:00:00"
+}
